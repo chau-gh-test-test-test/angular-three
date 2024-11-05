@@ -121,5 +121,8 @@
 	},
 	"useLegacyCache": true,
 	"nxCloudId": "672a81013120e34527cef3f6",
-	"nxCloudUrl": "https://staging.nx.app"
+	"nxCloudUrl": "https://staging.nx.app",
+  "plugins": [
+    "@nx/powerpack-enterprise-cloud"
+  ]
 }

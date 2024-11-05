@@ -34,6 +34,7 @@
     "@nx/jest": "20.0.7",
     "@nx/js": "20.0.7",
     "@nx/plugin": "20.0.7",
+    "@nx/powerpack-enterprise-cloud": "^1.0.10",
     "@nx/storybook": "20.0.7",
     "@nx/vite": "20.0.7",
     "@nx/web": "20.0.7",
